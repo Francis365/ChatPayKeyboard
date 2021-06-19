@@ -86,7 +86,7 @@
     <Reference Include="System.Core" />
     <Reference Include="Xamarin.iOS" />
     <Reference Include="NativeLibrary">
-      <HintPath>..\..\KeyboardBinding\KeyboardBinding\bin\Debug\NativeLibrary.dll</HintPath>
+      <HintPath>NativeLibrary.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
