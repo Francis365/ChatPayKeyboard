@@ -55,7 +55,7 @@ namespace KeyboardExtension
         {
             base.ViewDidAppear(animated);
 
-
+            //show view from binding library
             var proxy = new KeyboardProxy();
 
             proxy.OnloginWithViewController(this);

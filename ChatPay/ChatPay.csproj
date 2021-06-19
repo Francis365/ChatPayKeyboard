@@ -138,7 +138,7 @@
     <ItemGroup>
       <ProjectReference Include="..\KeyboardExtension\KeyboardExtension.csproj">
         <IsAppExtension>true</IsAppExtension>
-        <Project>{C63F388C-1FBF-4ED4-89A6-A5ED9220BE54}</Project>
+        <Project>{251E6835-B5BD-4B23-88A4-E4354CB3497A}</Project>
         <Name>KeyboardExtension</Name>
       </ProjectReference>
     </ItemGroup>
